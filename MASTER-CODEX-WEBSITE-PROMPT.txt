@@ -1,0 +1,4 @@
+Use MASTER-CODEX-WEBSITE-PROMPT.
+
+Website/project-specific add-on:
+This repo is for Chanfana OpenAPI Template. Preserve the current stack and keep any public website, API docs, or demo surfaces independent, fast, simple, crawlable where appropriate, and reviewer-ready. Do not add private keys, payment setup, live tracking, uncontrolled public AI, or external-service dependencies without approval.
